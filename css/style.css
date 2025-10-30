@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(117, 117, 110);
+
+}
+h1{
+    color: rgb(9, 85, 226);
+    font-size: 20px;
+}
+h1.titulo{
+    font-size: 40px;
+    text-align: center;
+    color:black;
+}
+h1.subtitulo{
+    font-size: 30px;
+    text-align: center;
+    color: black ;
+
+
+}
+img{
+    border: inset black 10px;
+    border-radius: 30px;
+
+}
+img.um{
+    width: 300px;
+    height: 200px;
+    
+}
+img.dois{
+    width: 400px;
+    height: 300px;
+
+}
+img.tres{
+    width: 500px;
+    height: 400px;
+
+}
+img.quatro{
+    width: 600px;
+    height: 500px;
+}
+.caixa{
+    border: SOLID 2PX blue;
+    border-radius: 15px;
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+    
+
+}
+a caixa 1 serve para ser a acaixa 1
+.caixa2{
+    border: solid 2px black;
+    border-radius: 15px ;
+    background-color: aqua ;
+    padding: 10px;
+    margin:10px;
+    width: 250px;
+
+}
+aqui é a caixa de texto 2
+.boxzebra{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+} 
+<coloca o alinhamento da imagem no centro só que esse comando server para alinhar texto tambem>  
